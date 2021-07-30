@@ -1,0 +1,2 @@
+rootProject.name = "MagicAppsInternship"
+include ':app'
